@@ -28,8 +28,8 @@ h1 {
 
 h2 {
 	color: black;
-	font-size: 15px;
-	margin-bottom: 20px;
+	font-size: 18px;
+	margin-bottom: 30px;
 }
 
 p{
@@ -61,7 +61,7 @@ p{
 }
 
 .nav-iframe {
-    height: 400px;
+    height: 700px;
     width: 300px;
 }
 
