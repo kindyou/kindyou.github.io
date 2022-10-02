@@ -1,0 +1,89 @@
+
+
+@font-face {
+    font-family:Georgia, serif;
+    src:url("resources/Georgia.ttf" ) ；
+}
+
+.body{
+	margin-left: 120px;
+}
+
+
+
+.content {
+	margin-top: 120px;
+	margin-right: 120px;
+	margin-bottom: 120px;
+	width: 525px;
+	font-size: 15px;
+	line-height: 24px;
+    font-family: Georgia, serif;
+}	
+
+h1 {
+	color: black;
+	font-size: 15px;
+}
+
+h2 {
+	color: black;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+
+p{
+	margin-bottom: 21px;
+}
+
+
+.nav {
+	color: black;
+	font-size: 15px;
+	line-height: 24px;
+    font-family: Georgia, serif;
+}
+
+.footer {
+	color: black;
+	font-size: 15px;
+	line-height: 24px;
+    font-family: Georgia, serif;
+}
+
+.footer-content {
+	color: black;
+	margin-top: 120px;
+	margin-bottom: 120px;
+	font-size: 15px;
+	line-height: 24px;
+    font-family: Georgia, serif;
+}
+
+.nav-iframe {
+    height: 400px;
+    width: 300px;
+}
+
+.footer-iframe {
+    height: 100px;
+    width: 300px;
+}
+
+
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
