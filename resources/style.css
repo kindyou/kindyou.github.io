@@ -61,13 +61,13 @@ p{
 }
 
 .nav-iframe {
-    height: 700px;
-    width: 300px;
+    height:800px;
+    width:100%;
 }
 
 .footer-iframe {
-    height: 100px;
-    width: 300px;
+    height:250px;
+    width:100%;
 }
 
 
